@@ -1,0 +1,2 @@
+# tempAutoAFK
+AutoAFK for Vrchat
